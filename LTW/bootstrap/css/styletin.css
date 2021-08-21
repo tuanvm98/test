@@ -1,0 +1,67 @@
+/*Trang tin t?c */
+#body{
+    width: 800px;
+    margin: auto;
+    
+}
+#top{
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+#menu{
+   width: 800px; 
+   margin: auto;
+   height: 30px; 
+   background: #BA1828;
+}
+#menu ul li{
+ list-style-type: none;
+ float: left;
+ width: 160px;
+ text-align: center;
+ line-height: 30px;
+ 
+}
+#menu ul li a {
+    text-decoration: none;
+    color: white;
+    
+}
+#left {
+   margin-left: 270px;
+    float: left;
+    width: 618px;
+    border-right: 1px  solid silver;
+}
+.news h3{
+ 
+    margin-bottom: 5px;
+}
+.news {
+   
+    border-bottom: 2px solid silver;
+    margin: 5px 10px 5px 10px;
+    padding-bottom: 5px;
+}
+.news img{
+    
+    border: 3px solid silver;
+    float: left;
+    margin-right: 5px;
+}
+#right {
+    margin-right: 275px;
+    float: right;
+    width: 178px;
+    border: 1px  solid black;
+}
+
+#bottom{
+   
+    height: 40px;
+    background: silver;
+    text-align: center;
+    color: white;
+    line-height: 40px;
+}

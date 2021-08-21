@@ -1,0 +1,37 @@
+/*C?ng tin t?c*/
+.bantin h2 {
+    
+     margin-right: 250px;
+    margin-left: 250px;
+    text-align: center;
+    color: #FF8040;
+    font-family: Tahoma;
+    font-size: 34px;
+   font-weight: bold;
+    
+}
+.bantin h5 {
+     margin-right: 270px;
+    margin-left: 270px;
+    text-align: left;
+    color: black;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.bantin h4{
+     margin-right: 270px;
+     margin-left: 270px;
+    text-align: left;
+    color: #400080;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 20px;
+} 
+.bantin  img {
+     margin-right: 200px;
+     margin-left: 250px;
+     text-align: left;
+     width: 850px;
+     height: 600px;
+}
